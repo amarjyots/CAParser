@@ -1,2 +1,2 @@
 # CAParser
-Building a parser that normalizes Equities Corporate Actions data feeds into structured formats for downstream systems.
+Corporate Actions Data Parser – parse, validate, and normalize CA feeds (CSV/XML/JSON) into structured formats for downstream systems.
